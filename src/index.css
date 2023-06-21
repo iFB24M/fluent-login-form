@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(41, 41, 41);
+}
+#root {
+  max-width: 400px;
+}
+.input-block {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin: 4px 0;
+}
+.buttons {
+  display: flex;
+  gap: 4px;
+  margin: 4px 0;
+}
